@@ -2,7 +2,7 @@ Filetype: Bruce IR File
 Version: 1
 #
 # MyDevice----[
-name: Btn0----]
+name: - LIGHT
 type: raw
 frequency: 38000
 duty_cycle: 0.33
