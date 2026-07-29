@@ -2,7 +2,7 @@ Filetype: Bruce IR File
 Version: 1
 #
 # MyDevicepppppp
-name: Btn044444
+name: RGB
 type: raw
 frequency: 38000
 duty_cycle: 0.33
